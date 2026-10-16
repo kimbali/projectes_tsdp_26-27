@@ -13,7 +13,7 @@ Els projectes són Rocanolich, estètica i perruqueria, i graduació. Cada carpe
 
 1. Reuniu-vos amb els companys que tenen assignat el **mateix projecte**.
 2. Llegiu el banc de preguntes de la vostra carpeta.
-3. Trieu i adapteu **exactament 5 preguntes obertes** per a usuaris potencials.
+3. Trieu i adapteu **exactament 5 preguntes obertes** per a a cada usuari potencial.
 4. Poseu-les en un ordre lògic i decidiu quin perfil de persona entrevistareu.
 5. Acordeu com recollireu les respostes (notes al moment, sense dades personals innecessàries).
 
