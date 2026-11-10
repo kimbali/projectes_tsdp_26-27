@@ -68,6 +68,6 @@ Cada equip de treball (Rocanolich, estètica i perruqueria, o graduació) haurà
 - [ ] **Dues decisions funcionals** i **una decisió de disseny** concretes i justificades.
 - [ ] Apartat **«3. User Persona»** afegit al **mateix dossier individual de Google Drive** de les tasques 1 i 2.
 
-## 6. Ampliació voluntària
+## 5. Ampliació voluntària
 
 Crea un **segon User Persona** amb un perfil i necessitats diferents (per exemple, un responsable d'administració en comptes d'un client o participant). Compara els dos perfils i explica quines funcionalitats o decisions d'interfície canviarien per satisfer-los.
